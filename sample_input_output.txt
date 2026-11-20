@@ -1,0 +1,56 @@
+========== SAMPLE INPUT ==========
+
+1
+500123456
+CSE001
+Aman
+9876543210
+aman@gmail.com
+1
+1
+9.2
+2
+500123456
+4
+500123456
+9
+500123456
+0
+
+
+========== SAMPLE OUTPUT ==========
+
+STUDENT RECORD & RESULT MANAGEMENT
+
+Enter your choice: 1
+Enter SAP ID: 500123456
+Enter Roll Number: CSE001
+Enter Name: Aman
+Enter Phone Number: 9876543210
+Enter Email ID: aman@gmail.com
+Enter Year: 1
+Enter Current Semester: 1
+Enter SGPA for Semester 1: 9.2
+Student added successfully.
+
+Enter your choice: 2
+Enter SAP ID to search: 500123456
+
+SAP ID: 500123456
+Roll Number: CSE001
+Name: Aman
+Year: 1
+Semester: 1
+CGPA: 9.20
+
+Enter your choice: 4
+Enter SAP ID: 500123456
+CGPA = 9.20
+
+Enter your choice: 9
+Enter SAP ID: 500123456
+Excellent Performance
+Recommendation: Excellent performance - maintain your current study pattern and continue challenging yourself.
+
+Enter your choice: 0
+Exiting program.
